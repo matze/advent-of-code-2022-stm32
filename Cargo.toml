@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "bluepill-aoc"
+name = "advent-of-code-2022-stm32"
 version = "0.1.0"
 license = "MIT OR Apache-2.0"
 
